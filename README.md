@@ -1,5 +1,10 @@
 # Hotstar Clone – DevSecOps Project (Node.js)
 
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![Node.js](https://img.shields.io/badge/Node.js-16%2B-green)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Practice-orange)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-lightgrey)
+
 This repository contains a Hotstar-style application created to practice DevOps and DevSecOps concepts using Node.js, Docker, and container security scanning.
 
 ---
